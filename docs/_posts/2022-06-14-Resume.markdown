@@ -1,0 +1,119 @@
+---
+layout: post
+title:  "Resume"
+date:   2023-10-16 14:58:34 -0700
+categories: resume
+
+---
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.306 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Fri Oct 20 2023 16:16:32 GMT-0700 (PDT)
+* Source doc: Resume
+----->
+
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.36 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Fri Oct 20 2023 16:18:56 GMT-0700 (PDT)
+* Source doc: Resume Good
+----->
+<!-----
+
+Yay, no errors, warnings, or alerts!
+
+Conversion time: 0.33 seconds.
+
+
+Using this Markdown file:
+
+1. Paste this output into your source file.
+2. See the notes and action items below regarding this conversion run.
+3. Check the rendered output (headings, lists, code blocks, tables) for proper
+   formatting and use a linkchecker before you publish this page.
+
+Conversion notes:
+
+* Docs to Markdown version 1.0β34
+* Fri Oct 20 2023 16:22:47 GMT-0700 (PDT)
+* Source doc: Resume Good
+----->
+
+
+**Jamey Hollis**
+
+hollisjamey@gmail.com • (510) 407-6729
+
+**_<span style="text-decoration:underline;">Experience                               							              	   </span>_**
+
+**San Francisco State University, San Francisco                                                  	         _2020-2022_**
+
+Graduate Teaching Assistant, Mathematics
+
+
+
+* For all 4 semester of two-year graduate Math degree, instructed Math courses to classes of 30-40 undergraduate students: _Math for Business Calculus_ and _Prelude to Calculus_, teaching both remotely and in person 
+* Developed unique, student-focused lesson plans designed to engage students through group activities, adapted to a remote environment.
+* Created exams, quizzes, projects, and other individual assessments, graded coursework throughout, and assigned final grades
+
+**General Assembly, San Francisco			                                                _2015-2016_**
+
+Instructional Assistant, Android Development
+
+
+* Instructed the full range of Android Development, including: object-oriented programming fundamentals, Java, the Android SDK,  API integrations, SQL Databases, git, collaborative working skills
+* Developed practical lessons designed to engage students with practical skills
+
+**_<span style="text-decoration:underline;">Technical Skills									              	</span>_**
+
+Proficient in programming languages: Python, Java
+
+Proficient in Android SDK
+
+**_<span style="text-decoration:underline;">Education											             </span>_**
+
+San Francisco State University, San Francisco, CA				         _2020-2022_
+
+_Graduated January 2023 with an MA in Mathematics_
+
+Thesis: _Analysis on PT-Symmetry and Eigenvalues of Field Patterns_
+
+UC Davis, Davis, CA								         _2017-2019_
+
+_Graduated August 2019 with a BS in Mathematics_
+
+General Assembly, San Francisco, CA						         _2015_
+
+_Web Development Bootcamp_
+
+Carleton College, Northfield, MN						         _2013-2015_
+
+_Major: Mathematics_
